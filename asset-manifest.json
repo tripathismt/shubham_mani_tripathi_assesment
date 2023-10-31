@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shubham_mani_tripathi_assesment/static/css/main.9c96a2e8.css",
+    "main.js": "/shubham_mani_tripathi_assesment/static/js/main.094c43f3.js",
+    "static/js/787.d46d108a.chunk.js": "/shubham_mani_tripathi_assesment/static/js/787.d46d108a.chunk.js",
+    "static/media/logo.svg": "/shubham_mani_tripathi_assesment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/shubham_mani_tripathi_assesment/index.html",
+    "main.9c96a2e8.css.map": "/shubham_mani_tripathi_assesment/static/css/main.9c96a2e8.css.map",
+    "main.094c43f3.js.map": "/shubham_mani_tripathi_assesment/static/js/main.094c43f3.js.map",
+    "787.d46d108a.chunk.js.map": "/shubham_mani_tripathi_assesment/static/js/787.d46d108a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c96a2e8.css",
+    "static/js/main.094c43f3.js"
+  ]
+}
